@@ -1,0 +1,15 @@
+{
+  "name": "cypresstutorial",
+  "version": "1.0.0",
+  "description": "I. Setup Environment\r Down Nodejs https://nodejs.org/en/download/\r Down VS https://code.visualstudio.com/download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
