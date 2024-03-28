@@ -35,10 +35,16 @@ Input: npx cypress open
     "dev": "cypress open",
     "test": "cypress run --browser chrome --headed"
   }
+5. Setup cypress.config.js
+
+projectId:"CypressTest",
+    specPattern:"./cypress/test/**.*", //direct folder
+    baseUrl:"https://www.thegioididong.com" //url
+
 
 III. Practice
 
 1. Create file with action 
 a. Access to any website, then check content automatically
 b. Access to any website, then check function login automatically
-c. Access to any website, then check function search automtically
+c. Access to any website, then check chatbox automtically

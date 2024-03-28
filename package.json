@@ -4,10 +4,13 @@
   "description": "I. Setup Environment\r Down Nodejs https://nodejs.org/en/download/\r Down VS https://code.visualstudio.com/download",
   "main": "index.js",
   "scripts": {
-    "dev":"cypress open",
+    "dev": "cypress open",
     "test": "cypress run --browser chrome --headed"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
 }
