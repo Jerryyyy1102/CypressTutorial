@@ -3,8 +3,7 @@ describe('Check chatbox', ()=>{
         cy.visit('/')
         cy.wait(10000)
         cy.get('.css-17ehq8p').click()
-        cy.wait(6000)
-        cy.get('button').eq(2).should('be.visible').wait(3000).click({ force: true })
+        cy.get('[type="button"]').find('button.css-11umpck').eq(2).click()
         cy.wait(3000)
        
     })
