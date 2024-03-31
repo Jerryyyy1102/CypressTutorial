@@ -1,7 +1,10 @@
-# CypressTutorial
+# Cypress + Jenkins + Docker integration Tutorial
 I. Setup Environment
-Down Nodejs https://nodejs.org/en/download/
-Down VS https://code.visualstudio.com/download 
+1.Down Nodejs https://nodejs.org/en/download/
+2.Down VS https://code.visualstudio.com/download 
+3.Down Docker
+a. Install Jenkins/jenkins on Docker 
+b. Install tool Ngrok
 
 II. Create a project
 
