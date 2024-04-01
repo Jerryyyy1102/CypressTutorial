@@ -7,8 +7,8 @@ describe('Check chatbox', ()=>{
         cy.get('.icon__chat-error',{timeout:3000}).click()
         cy.get('.icon__report-chat',{timeout:3000}).click()
 
-        cy.get('smt-[14px].flex w-[30%].cursor-pointer.flex-col.items-center.px-0').click()
-        cy.get('select.form-control.form-control-sm.is-invalid').type('Anh').click()
+        cy.get('select.form-control.form-control-sm.is-invalid').eq(0).click()
+        cy.get('select.form-control.form-control-sm.is-invalid').click()
         // cy.get('.css-17ehq8p').click()
         // cy.wait(2000)
         // cy.get('.css-1l2nfdo').get('button.css-11umpck').eq(2).should('be.visible').click()
