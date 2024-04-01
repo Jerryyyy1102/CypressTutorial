@@ -3,8 +3,6 @@ describe('Access to any website, then check content automatically',function () {
       cy.visit('')
 
 
-    cy.get('text').type("")
-
       expect(1)
       cy.wait(3000)
     })

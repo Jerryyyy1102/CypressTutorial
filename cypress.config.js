@@ -7,6 +7,6 @@ module.exports = defineConfig({
     },
     projectId:"CypressTutorial",
     specPattern:"./cypress/Practice/**.*",
-    baseUrl:"https://www.samsung.com/vn"
+    baseUrl:"https://www.bachhoaxanh.com/"
   },
 });
