@@ -5,7 +5,6 @@ describe('Access to any website, then check content automatically',function () {
       cy.visit('/')
       cy.get('.mt-2 > span').click()
       cy.get('#phone').type(inpP).should('have.value','0765641761').then(p=>{
-
         cy.get('button').eq(1).click()
         if(p.length==10)
         {
