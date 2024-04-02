@@ -1,18 +1,25 @@
 const dropdown_Name="select=['select.form-control.form-control-sm.is-invalid']"
 
 describe('Check chatbox', ()=>{
-    it('Check chatbox at LongChau Website', () => {
+    it('Check chatbox at BachHoaXanh Website', () => {
         cy.visit('/')
-        cy.wait(6000)
-        cy.get('.icon__chat-error',{timeout:3000}).click()
-        cy.get('.icon__report-chat',{timeout:3000}).click()
+        cy.wait(2000)
+        cy.get('i',{timeout:3000}).eq(54).click({force:true})
+        cy.wait(2000)
+        cy.get('textarea').eq(0).type('Em test anh chị đừng gọi, em cám ơn')
+        cy.get('button').eq(92).click()
+        cy.get('button').eq(94).click()
 
-        cy.get('select.form-control.form-control-sm.is-invalid').eq(0).click()
-        cy.get('select.form-control.form-control-sm.is-invalid').click()
+
+        cy.wait(3000)
+        //cy.get('i',{timeout:3000}).eq(54).click()
+        
+
+        // cy.get('select.form-control.form-control-sm.is-invalid').eq(0).click()
+        // cy.get('select.form-control.form-control-sm.is-invalid').click()
         // cy.get('.css-17ehq8p').click()
         // cy.wait(2000)
-        // cy.get('.css-1l2nfdo').get('button.css-11umpck').eq(2).should('be.visible').click()
-        //cy.get('[type="button"]').find('button.css-11umpck').eq(2).click()
+       
         //const buttonLiveChat= document.getElementById('livechat-button');
         //const buttonElements = document.querySelectorAll('.livechat-button');
         //const buttonElement = $('.livechat-button');

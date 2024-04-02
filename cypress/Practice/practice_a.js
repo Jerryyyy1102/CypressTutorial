@@ -13,6 +13,7 @@ describe('Access to any website, then check content automatically',function () {
           cy.get(eq[0]).clear()
           cy.get(eq[0]).type("hi")
           cy.get(eq[0]).should('have.value',"verify")
+          cy.get(eq[0]).expect('Thịt heo').to.contain('heo')
       })
       cy.get('#compareButton').click()
 
