@@ -18,3 +18,54 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+function loginViaAAD(username, password) {
+    cy.visit('https://backoffice.pp.iqos.com/backoffice/login.zul')
+    cy.get('a').eq(0).click()
+  
+    
+    // Login to your AAD tenant.
+    cy.origin(
+      'login.microsoftonline.com',
+      {
+        args: {
+          username,password
+        },
+      },
+      ({ username, password }) => {
+        cy.get('input[type="email"]').type(username, {
+          log: false,
+        })
+        cy.get('input[type="submit"]').click()
+        cy.wait(5000)
+        cy.get('a').eq(0).click()
+        cy.get('input[type="password"]').type(password,{
+            log:false,})
+        cy.get('input[type="submit"]').click()
+        cy.wait(30000)
+      }
+    )
+  
+    
+  
+    // Ensure Microsoft has redirected us back to the sample app with our logged in user.
+    // cy.url().should('equal', 'https://login.microsoftonline.com/')
+    // cy.get('#welcome-div').should(
+    //   'contain',
+    //   `Welcome ${Cypress.env('aad_username')}!`
+    // )
+  }
+  
+  Cypress.Commands.add('loginToAAD', (username, password) => {
+    const log = Cypress.log({
+      displayName: 'Azure Active Directory Login',
+      message: [`🔐 Authenticating | ${username}`],
+      autoEnd: false,
+    })
+    log.snapshot('before')
+  
+    loginViaAAD(username, password)
+  
+    log.snapshot('after')
+    log.end()
+  })
+  
