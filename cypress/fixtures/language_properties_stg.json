@@ -1,0 +1,351 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {},
+    {
+      "tab": "Advanced"
+    },
+    {},
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {},
+    {
+      "tab": "Personalization"
+    },
+    {},
+    {
+      "tab": "Live Copy"
+    },
+    {},
+    {
+      "tab": "H1 Title"
+    },
+    {},
+    {
+      "tab": "Top menu"
+    },
+    {},
+    {
+      "tab": "Schema Org"
+    },
+    {},
+    {
+      "tab": "HostName"
+    },
+    {},
+    {
+      "tab": "Datalayer"
+    },
+    {},
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {},
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {},
+    {
+      "tab": "Social Configuration"
+    },
+    {},
+    {
+      "tab": "Aibot Configuration"
+    },
+    {},
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {},
+    {
+      "tab": "SEO"
+    },
+    {},
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {},
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {},
+    {
+      "tab": "Integration"
+    },
+    {},
+    {
+      "tab": "Commons Conf"
+    },
+    {},
+    {
+      "tab": "PDP Configuration"
+    },
+    {},
+    {
+      "tab": "PLP Configuration"
+    },
+    {},
+    {
+      "tab": "Configuration"
+    },
+    {},
+    {
+      "tab": "Page Paths"
+    },
+    {},
+    {
+      "tab": "Commons Label"
+    },
+    {},
+    {
+      "tab": "Logo"
+    },
+    {},
+    {
+      "tab": "Popup Configuration"
+    },
+    {},
+    {
+      "tab": "SEO"
+    },
+    {},
+    {
+      "tab": "Trust Providers"
+    },
+    {},
+    {
+      "tab": "My Device Integration"
+    },
+    {},
+    {
+      "tab": "Customer Search Integration"
+    },
+    {},
+    {
+      "tab": "Mulesoft Integration"
+    },
+    {},
+    {
+      "tab": "My Preference Integration"
+    },
+    {},
+    {
+      "tab": "FilterConfiguration"
+    },
+    {},
+    {
+      "tab": "Store Details WeekDays Configuration"
+    },
+    {},
+    {
+      "tab": "Payment Configuration"
+    },
+    {},
+    {
+      "tab": "Interaction Configuration"
+    },
+    {},
+    {
+      "tab": "Error Configuration"
+    },
+    {},
+    {
+      "tab": "Error Configuration Loyalty Redeem"
+    },
+    {},
+    {
+      "tab": "Error Configuration Compatibility"
+    },
+    {},
+    {
+      "tab": "Error Configuration Loyalty Add to cart"
+    },
+    {},
+    {
+      "tab": "Error Configuration Appointment"
+    },
+    {},
+    {
+      "tab": "Error Configuration Create Gigya Account"
+    },
+    {},
+    {
+      "tab": "Social Media"
+    },
+    {},
+    {
+      "tab": "Resend Password Configuration"
+    },
+    {},
+    {
+      "tab": "Order invoice configuration"
+    },
+    {},
+    {
+      "tab": "CSC My Timeline Configuration"
+    },
+    {},
+    {
+      "tab": "Check Is CSC"
+    },
+    {},
+    {
+      "tab": "VeeV Configuration"
+    },
+    {},
+    {
+      "tab": "Dynamsoft Config"
+    },
+    {},
+    {
+      "tab": "Legal Configuration"
+    },
+    {},
+    {
+      "tab": "Cookie Popup Config"
+    },
+    {},
+    {
+      "tab": "One Trust Config"
+    },
+    {},
+    {
+      "tab": "Kakao Talk Configuration"
+    },
+    {},
+    {
+      "tab": "Lending Order Enable Promo"
+    },
+    {},
+    {
+      "tab": "NotifyMe Overlay Labels"
+    },
+    {},
+    {
+      "tab": "Wyng Experience Configuration"
+    },
+    {},
+    {
+      "tab": "FAQ Configuration"
+    },
+    {},
+    {
+      "tab": "Checkout Configuration"
+    },
+    {},
+    {
+      "tab": "Enable Full Address"
+    },
+    {},
+    {
+      "tab": "GET SUPPORT"
+    },
+    {},
+    {
+      "tab": "Checkout Error Messages"
+    },
+    {},
+    {
+      "tab": "Language Icon Path"
+    },
+    {},
+    {
+      "tab": "Loyalty Badge Configuration"
+    },
+    {},
+    {
+      "tab": "Enable Full Week Day"
+    },
+    {},
+    {
+      "tab": "Product Badge Display"
+    },
+    {},
+    {
+      "tab": "Add space after zero for calendar"
+    },
+    {},
+    {
+      "tab": "Enable Card Payment Mask"
+    },
+    {},
+    {
+      "tab": "Text Direction"
+    },
+    {},
+    {
+      "tab": "Enable Free Label"
+    },
+    {
+      "Free Label": "Free"
+    },
+    {
+      "tab": "HEETS CONTRACT"
+    },
+    {
+      "Generic Contract Error Message": ""
+    },
+    {
+      "tab": "Data Stored from HAV"
+    },
+    {
+      "Checkout fields compiled with data stored from Hav": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./dataFromHavRemapping\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_ccd77166-73cb-482c-a520-beff26148d66\" class=\"coral-Form-fieldlabel\">Data field from Hav</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./sourceField\" value=\"\" aria-labelledby=\"label_ccd77166-73cb-482c-a520-beff26148d66\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field/items/column/items/sourceField\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_6a5f7878-fe1a-40bc-af43-d24d7d442d9a\" class=\"coral-Form-fieldlabel\">Data field to Checkout</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./targetField\" value=\"\" aria-labelledby=\"label_6a5f7878-fe1a-40bc-af43-d24d7d442d9a\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field/items/column/items/targetField\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":3,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":3,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havMultifieldConfigurationTab/items/dataFromHavRemapping/items/dataStored/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":4,\"selfTime\":1}-->"
+    },
+    {
+      "tab": "Hav Status Mapping"
+    },
+    {
+      "Hav Mapping code": "Hav Code\nHav Label\n\n\n\n\n\n\nAdd field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./havMappingCode\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_619087cb-60eb-4c44-8e49-06c92a66cf8a\" class=\"coral-Form-fieldlabel\">Hav Code</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./code\" value=\"\" aria-labelledby=\"label_619087cb-60eb-4c44-8e49-06c92a66cf8a\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/items/code\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_0f5c1e1e-7a91-4cd1-86ef-0a89ddeb54c2\" class=\"coral-Form-fieldlabel\">Hav Label</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./label\" value=\"\" aria-labelledby=\"label_0f5c1e1e-7a91-4cd1-86ef-0a89ddeb54c2\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/items/label\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":1}-->",
+      "Hav Code": "Hav Code\nHav Label\n\n\n\n\n\n\nAdd field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./havMappingCode\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_619087cb-60eb-4c44-8e49-06c92a66cf8a\" class=\"coral-Form-fieldlabel\">Hav Code</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./code\" value=\"\" aria-labelledby=\"label_619087cb-60eb-4c44-8e49-06c92a66cf8a\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/items/code\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_0f5c1e1e-7a91-4cd1-86ef-0a89ddeb54c2\" class=\"coral-Form-fieldlabel\">Hav Label</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./label\" value=\"\" aria-labelledby=\"label_0f5c1e1e-7a91-4cd1-86ef-0a89ddeb54c2\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/items/label\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/havStatusMapping/items/havMapping/items/havMappingCode/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":1}-->"
+    },
+    {
+      "tab": "Hide Order Summary View"
+    },
+    {},
+    {
+      "tab": "Global Error Configurations"
+    },
+    {
+      "Global Error Message": "Opssss… Something went wrong"
+    },
+    {
+      "tab": "Lending Error Configurations"
+    },
+    {
+      "Lending Error Message": ""
+    },
+    {
+      "tab": "News Blog Configuration"
+    },
+    {
+      "Main Feature Title": ""
+    },
+    {
+      "tab": "News Blog Label"
+    },
+    {
+      "label by": ""
+    },
+    {
+      "tab": "Header Notice Banner Configuration"
+    },
+    {
+      "Active Header notice banner": "true"
+    },
+    {
+      "tab": "Store type Map configuration"
+    },
+    {
+      "Location Type Mapping": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./locationTypeMap\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_bfa0f21f-021e-486c-97d6-4d3d737545e9\" class=\"coral-Form-fieldlabel\">Location Type Key</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./key\" value=\"\" aria-labelledby=\"label_bfa0f21f-021e-486c-97d6-4d3d737545e9\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column/items/key\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_824b0105-eca9-4340-8fd4-e398da0181ad\" class=\"coral-Form-fieldlabel\">Location Type Value</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./value\" value=\"\" aria-labelledby=\"label_824b0105-eca9-4340-8fd4-e398da0181ad\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column/items/value\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_d51ddb0e-6621-458e-90b2-f61a89c4b562\" class=\"coral-Form-fieldlabel\">Icon image path for store detail type configured</label><span  class=\"coral-Form-field coral-PathBrowser\" data-init=\"pathbrowser\" data-root-path=\"/content\" data-option-loader=\"granite.ui.pathBrowser.pages.hierarchyNotFile\" data-picker-src=\"/libs/wcm/core/content/common/pathbrowser/column.html/content?predicate=hierarchyNotFile\" data-picker-title=\"Select Path\" data-crumb-root=\"content\" data-picker-multiselect=\"false\" data-root-path-valid-selection=\"true\" data-cq-msm-lockable=\"iconImagePath\">\n    <span class=\"coral-InputGroup coral-InputGroup--block\">\n        <input  class=\"coral-InputGroup-input coral-Textfield js-coral-pathbrowser-input\" type=\"text\" name=\"./iconImagePath\" autocomplete=\"off\" aria-labelledby=\"label_d51ddb0e-6621-458e-90b2-f61a89c4b562\" value=\"\" data-validation=\"\">\n        <span class=\"coral-InputGroup-button\">\n            <button  class=\"coral-Button coral-Button--square js-coral-pathbrowser-button\" type=\"button\" title=\"Browse\">\n                <i class=\"coral-Icon coral-Icon--sizeS coral-Icon--folderSearch\"></i>\n            </button>\n        </span>\n    </span>\n</span></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/pathbrowser\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column/items/iconImagePath\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_ced62ba5-5b2d-4d50-88f7-b121c82df3da\" class=\"coral-Form-fieldlabel\">Alt text for icon</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./alt\" value=\"\" aria-labelledby=\"label_ced62ba5-5b2d-4d50-88f7-b121c82df3da\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column/items/alt\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":4,\"selfTime\":2}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":4,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":4,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/storeTypeLabels/items/locationType/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":5,\"selfTime\":1}-->"
+    }
+  ],
+  "count": 162,
+  "timestamp": "2024-10-24T17:17:36.842Z"
+}

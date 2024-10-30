@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "Registration",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "Registration - Create your IQOS Account",
+      "Navigation Title": ""
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "register"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": "",
+      "Inherited from /content/pmisite/id/en": "on"
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "ContextHub Path": "",
+      "Segments Path": "",
+      "Targeting Configuration": "",
+      "Brand": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "Live Copy Inheritance": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    },
+    {
+      "Title H1": ""
+    },
+    {
+      "tab": "Commons Conf"
+    },
+    {
+      "Common SEO Properties": "",
+      "Max Image Preview Selection": ""
+    },
+    {
+      "tab": "Configuration"
+    },
+    {},
+    {
+      "tab": "Top menu"
+    },
+    {
+      "Menu Icon path Principal": "",
+      "Menu Icon path Secondary": "",
+      "disable auto Hide Mode For Notice Banner": "true"
+    },
+    {
+      "tab": "Schema Org"
+    },
+    {
+      "Same As": "",
+      "Contact Point": ""
+    },
+    {
+      "tab": "HostName"
+    },
+    {
+      "HostName": ""
+    },
+    {
+      "tab": "Datalayer"
+    },
+    {
+      "Currency ISO": "",
+      "Primary Category": "",
+      "Primary Category Configuration": "",
+      "Primary Category Custom Configuration": "",
+      "Page Name": "",
+      "Page Name Configuration": "",
+      "Page Name Custom Configuration": ""
+    },
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {},
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {
+      "Author Configuration": "",
+      "Author": "Select",
+      "Agency Configuration": "",
+      "Agency": "Select"
+    },
+    {
+      "tab": "Social Configuration"
+    },
+    {
+      "Social Networks Configuration": "",
+      "OG type": "",
+      "OG image": "",
+      "OG title": "",
+      "OG description": "",
+      "Twitter image": ""
+    },
+    {
+      "tab": "Aibot Configuration"
+    },
+    {},
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {
+      "Device Model For Qure Page": ""
+    },
+    {
+      "tab": "SEO"
+    },
+    {
+      "Language ISO code (Optional)": ""
+    },
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {
+      "Select with following options": "useGlobal",
+      "Health warning banner Message Text": ""
+    },
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {}
+  ],
+  "count": 42,
+  "timestamp": "2024-10-27T08:54:51.623Z"
+}

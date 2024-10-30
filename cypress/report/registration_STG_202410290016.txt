@@ -1,0 +1,300 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "English",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "English",
+      "Navigation Title": "",
+      "Subtitle": "",
+      "Description": "",
+      "On/Off Time": "",
+      "On Time": "",
+      "Off Time": "",
+      "Vanity URL": "Add",
+      "Redirect Vanity URL": "true"
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "",
+      "Configuration": "",
+      "Cloud Configuration": "",
+      "Templates Settings": "",
+      "Allowed Templates": "Add",
+      "Authentication Requirement": "",
+      "Enable": "true",
+      "Login Page": "",
+      "Export": "",
+      "Export Configuration": "",
+      "SEO": "",
+      "Canonical Url": "",
+      "Robots Tags": "Select",
+      "Generate Sitemap": "true"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": ""
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "ContextHub Path": "",
+      "Segments Path": "",
+      "Targeting Configuration": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "Live Copy Inheritance": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    },
+    {
+      "Title H1": "",
+      "": false,
+      "Remove H1 Header from display": false
+    },
+    {
+      "tab": "Top menu"
+    },
+    {
+      "Headerbar version": "NEW Headerbar",
+      "": false,
+      "Only Logo": false,
+      "Transparent Headerbar": false,
+      "Light Font Headerbar": false,
+      "Menu Icon path Principal": "",
+      "Menu Icon path Secondary": ""
+    },
+    {
+      "tab": "Schema Org"
+    },
+    {
+      "Same As": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./sameAsList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_8a83e169-98fc-40e0-835a-8e95cba2629f\" class=\"coral-Form-fieldlabel\">Same As Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./sameAsSchema\" value=\"\" aria-labelledby=\"label_8a83e169-98fc-40e0-835a-8e95cba2629f\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/items/sameAs\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":2,\"selfTime\":0}-->",
+      "Contact Point": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./contactPointList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_dd24e311-f75a-4560-9e2e-93e1b6d3094f\" class=\"coral-Form-fieldlabel\">Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./typeCP\" value=\"\" aria-labelledby=\"label_dd24e311-f75a-4560-9e2e-93e1b6d3094f\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/typeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_204dfbe1-bde2-4775-96e9-e0b4572176a9\" class=\"coral-Form-fieldlabel\">Telephone</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./telephoneCP\" value=\"\" aria-labelledby=\"label_204dfbe1-bde2-4775-96e9-e0b4572176a9\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/telephoneCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_99abf29f-16e9-4661-b394-6fd372bfe2bf\" class=\"coral-Form-fieldlabel\">Contact Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./contactTypeCP\" value=\"\" aria-labelledby=\"label_99abf29f-16e9-4661-b394-6fd372bfe2bf\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/contactTypeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_687b4796-a195-467f-8a7f-85cfdce737c5\" class=\"coral-Form-fieldlabel\">Area Served</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./areaServedCP\" value=\"\" aria-labelledby=\"label_687b4796-a195-467f-8a7f-85cfdce737c5\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/areaServedCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_c1492ab3-8d17-48f6-a6a2-e41bf53523ba\" class=\"coral-Form-fieldlabel\">Available Language</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./availableLanguageCP\" value=\"\" aria-labelledby=\"label_c1492ab3-8d17-48f6-a6a2-e41bf53523ba\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/availableLanguageCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":4,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":5,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":5,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":5,\"selfTime\":0}-->"
+    },
+    {
+      "tab": "HostName"
+    },
+    {
+      "HostName": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./hostNameList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_e11d440b-240f-4b7d-afd8-ae4a8a4ffa7b\" class=\"coral-Form-fieldlabel\">HostName Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./hostName\" value=\"\" aria-labelledby=\"label_e11d440b-240f-4b7d-afd8-ae4a8a4ffa7b\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/items/hostName\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":2,\"selfTime\":0}-->"
+    },
+    {
+      "tab": "Datalayer"
+    },
+    {
+      "Currency ISO": " IDR",
+      "Primary Category": "",
+      "Primary Category Configuration": "Custom Value",
+      "Primary Category Custom Configuration": "Maintenance",
+      "Page Name": "",
+      "Page Name Configuration": "Custom Value",
+      "Page Name Custom Configuration": "SEO Maintenance"
+    },
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {
+      "": false,
+      "Locked for anonymous with overlay": false,
+      "Locked for anonymous and not HAV verified users with overlay": false,
+      "Locked for anonymous and not HAV verified users with redirect": false,
+      "Only accessible to users who are logged-in, completed HAV and have one device registered": false
+    },
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {
+      "Author Configuration": "",
+      "Author": "Select",
+      "Agency Configuration": "",
+      "Agency": "Select"
+    },
+    {
+      "tab": "Social Configuration"
+    },
+    {
+      "Social Networks Configuration": "",
+      "OG type": " website",
+      "OG image": "",
+      "OG title": "",
+      "OG description": "",
+      "Twitter image": "",
+      "Twitter title": "",
+      "Twiiter description": "",
+      "Twiiter card": "Select"
+    },
+    {
+      "tab": "Aibot Configuration"
+    },
+    {
+      "": false,
+      "Enable Aibot": false
+    },
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {
+      "Device Model For Qure Page": ""
+    },
+    {
+      "tab": "SEO"
+    },
+    {
+      "Language ISO code (Optional)": ""
+    },
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {
+      "Select with following options": "Use global health warning"
+    },
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {
+      "": false,
+      "Hide My Location Switcher": false,
+      "Display My Location Switcher warning message in expanded status by default.": false
+    },
+    {
+      "tab": "Integration"
+    },
+    {
+      "Hybris": "",
+      "Site Id *": "pmisite",
+      "Environment *": "https://testsecureacceptance.cybersource.com/silent/pay",
+      "Client Id *": "aem_client_pmi",
+      "Secret Id *": "40869582-0d32-45f7-903c-a3b86be80fc6",
+      "Client Id For Support Agent *": "",
+      "Secret Id For Support Agent*": "",
+      "Default Base Store *": "iqos-id-B2C-web@iqos-id-B2C-web",
+      "Base Store Map": "Type\nCode\n\n\n\n\n\n\nAdd field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./baseStoreSubmenu\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_0271721d-25f4-4dd1-928f-8c819a707fba\" class=\"coral-Form-fieldlabel\">Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./baseStoreType\" value=\"\" aria-labelledby=\"label_0271721d-25f4-4dd1-928f-8c819a707fba description_0271721d-25f4-4dd1-928f-8c819a707fba\" data-validation=\"\"><span class=\"coral-Form-fieldinfo coral-Icon coral-Icon--infoCircle coral-Icon--sizeS\" id=\"description_0271721d-25f4-4dd1-928f-8c819a707fba\" tabindex=\"0\" data-init=\"quicktip\" data-quicktip-type=\"info\" data-quicktip-arrow=\"right\" data-quicktip-content=\"Enter Base Store Type (hostname of the site)\"></span></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/items/baseStoreType\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_b958198e-d4a1-4309-8056-493a9e9a4423\" class=\"coral-Form-fieldlabel\">Code</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./baseStoreCode\" value=\"\" aria-labelledby=\"label_b958198e-d4a1-4309-8056-493a9e9a4423 description_b958198e-d4a1-4309-8056-493a9e9a4423\" data-validation=\"\"><span class=\"coral-Form-fieldinfo coral-Icon coral-Icon--infoCircle coral-Icon--sizeS\" id=\"description_b958198e-d4a1-4309-8056-493a9e9a4423\" tabindex=\"0\" data-init=\"quicktip\" data-quicktip-type=\"info\" data-quicktip-arrow=\"right\" data-quicktip-content=\"Enter Base Store Code (basesite@basestore)\"></span></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/items/baseStoreCode\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":1}-->",
+      "Type": "Type\nCode\n\n\n\n\n\n\nAdd field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./baseStoreSubmenu\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_0271721d-25f4-4dd1-928f-8c819a707fba\" class=\"coral-Form-fieldlabel\">Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./baseStoreType\" value=\"\" aria-labelledby=\"label_0271721d-25f4-4dd1-928f-8c819a707fba description_0271721d-25f4-4dd1-928f-8c819a707fba\" data-validation=\"\"><span class=\"coral-Form-fieldinfo coral-Icon coral-Icon--infoCircle coral-Icon--sizeS\" id=\"description_0271721d-25f4-4dd1-928f-8c819a707fba\" tabindex=\"0\" data-init=\"quicktip\" data-quicktip-type=\"info\" data-quicktip-arrow=\"right\" data-quicktip-content=\"Enter Base Store Type (hostname of the site)\"></span></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/items/baseStoreType\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_b958198e-d4a1-4309-8056-493a9e9a4423\" class=\"coral-Form-fieldlabel\">Code</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./baseStoreCode\" value=\"\" aria-labelledby=\"label_b958198e-d4a1-4309-8056-493a9e9a4423 description_b958198e-d4a1-4309-8056-493a9e9a4423\" data-validation=\"\"><span class=\"coral-Form-fieldinfo coral-Icon coral-Icon--infoCircle coral-Icon--sizeS\" id=\"description_b958198e-d4a1-4309-8056-493a9e9a4423\" tabindex=\"0\" data-init=\"quicktip\" data-quicktip-type=\"info\" data-quicktip-arrow=\"right\" data-quicktip-content=\"Enter Base Store Code (basesite@basestore)\"></span></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/items/baseStoreCode\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/hybris/items/baseStoreMap/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":1}-->",
+      "Code": "",
+      "Language *": "en_COUNTRY",
+      "ClickAndCollect endpoint for get stores": "eligible/stores?maxResult=20&sort=distance-desc&latitude={latitude}&longitude={longitude}&query=:distance-desc:features:CLICKANDCOLLECT&radius=10&fields=FULL",
+      "Cybersource (Secure Acceptance)": "",
+      "": false,
+      "Check to disable Cybersource": false,
+      "Profile Informations": "",
+      "Profile Id *": "B0CE5841-2ED6-41F1-B8D8-1CBAD97422F5",
+      "Access Key *": "bb4797d6001531a7ba2c88cc02346afb",
+      "Secret Key *": "b8f7b1e6e2ba4532b15b018fd23557a9b7229ed4f3c14c51be99663cc8f5670ecc539fdc34a5490eb9f61f8e11e2d7937a75ec78a63c4285b758701294f01d4cff5cedf05cad49ec8f8a0bc1178ce477fc8d4f253dc7439d8b21c71bdece695317da727d1daf4e578f8d89bcfb38f1aab7823242407d48fe912fc32c60886522",
+      "Endpoints Management": "",
+      "Endpoint Tokenization": "https://testsecureacceptance.cybersource.com/silent/token/create",
+      "Endpoint Authorization": "https://testsecureacceptance.cybersource.com/silent/pay",
+      "Microform script URL": "https://testflex.cybersource.com/cybersource/assets/microform/0.4.0/flex-microform.min.js",
+      "Behaviors": "",
+      "Check to enable tokenization on Secure Acceptance (Silent Order Post)": true,
+      "Check to enable authorization on Secure Acceptance (Silent Order Post)": false,
+      "Check to enable ignore AVS": true,
+      "Check to enable ignore CVN": true,
+      "Enable microform functionality": true,
+      "Paypal (Express Checkout)": "",
+      "Check to disable Paypal": false,
+      "Sandbox or Production": "Sandbox",
+      "Client ID *": "Aacsy-ZZDJ0PVqcuCD2Q7ttcxMxydCrqijX_R-S6qngn8NoITuOPGoxjAhKih1orAJaapqPvllio5Hs7",
+      "Secred ID *": "EB3Hlp4wUsYILoZs9-r0EVOJKJEpQAfSNgfC8l_pcQU3JiuM08_ifl3c7rAmCzrB9op7I37jEwNaPiaR",
+      "Locale": "",
+      "Checkout.com": "",
+      "Check to disable Checkout.com": false,
+      "Checkout.com remote script": "",
+      "Public Key Checkout.com": "",
+      "Set Form ID for Checkout.com payment service": "",
+      "Set button ID for Checkout.com payment service": "",
+      "Check to enable Checkout.com sync call": false,
+      "Adyen": "",
+      "Check to disable Adyen": false,
+      "Adyen Script Library Link": "https://test.adyen.com/hpp/cse/js/8015415140130185.shtml",
+      "Adyen FingerPrint Script Library": "https://live.adyen.com/hpp/js/df.js?v=20210811",
+      "Adyen Custom Environment": "test",
+      "Adyen Paypal ID": "",
+      "klarna Merchant Account": "",
+      "Adyen Drop In": "Add",
+      "Secure Fields": "",
+      "Check to enable Secure Fields": true,
+      "Adyen Secure Fields script link": "https://checkoutshopper-live.adyen.com/checkoutshopper/sdk/5.13.1/adyen.js",
+      "Adyen Secure Fields style link": "https://checkoutshopper-live.adyen.com/checkoutshopper/sdk/5.13.1/adyen.css",
+      "Default Adyen Secure fields Client key": "live_KT3ZSYUMPREJXBZCGYJ34OFPBAKRNKOT",
+      "Default Adyen Secure fields Origin key": "pub.v2.8215868755313082.aHR0cHM6Ly93d3cucHAuaXFvcy5jb20.tN2B6fIO4dtkCFVdTBtA6LtEGcZBD2XQcJ33OBvf6-E",
+      "Origin Key mapping (overrides default one if URL matches)": "",
+      "Server URL": "Server URL\nAdyen Origin Key per URL\n\n\n\n\n\n\nAdd field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./secureFieldsOriginKeyMapping\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_5000d74c-2741-497a-81a0-06c6548ca3b8\" class=\"coral-Form-fieldlabel\">Server URL</label><input  class=\"coral-Form-field\" type=\"text\" name=\"./sourceURL\" labelledby=\"label_5000d74c-2741-497a-81a0-06c6548ca3b8\" value=\"\" data-foundation-validation=\"\" data-validation=\"\" is=\"coral-textfield\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/coral/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field/items/column/items/sourceURL\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/coral/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_b2af84ae-145e-4da7-829c-6814fd928c71\" class=\"coral-Form-fieldlabel\">Adyen Origin Key per URL</label><input  class=\"coral-Form-field\" type=\"text\" name=\"./originKey\" labelledby=\"label_b2af84ae-145e-4da7-829c-6814fd928c71\" value=\"\" data-foundation-validation=\"\" data-validation=\"\" is=\"coral-textfield\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/coral/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field/items/column/items/originKey\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/coral/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":3,\"selfTime\":1}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page-config/cq:dialog/integration/items/adyen/items/secureFields/items/secureFieldsOriginKeyMapping/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":0}-->",
+      "Adyen Origin Key per URL": "",
+      "Adyen Secure fields loading context": "https://checkoutshopper-live.adyen.com/checkoutshopper/",
+      "WorldPay": "",
+      "Check to disable WorldPay": false,
+      "WorldPay Script Library Link": "",
+      "WorldPay Public Key": "",
+      "WorldPay Challenge URL": "",
+      "WorldPay Device Init URL": "",
+      "WorldPay URL": "",
+      "Cash On Delivery": "",
+      "Check to disable Cash On Delivery": false,
+      "Google": "",
+      "Google Api Key": "AIzaSyBNNqhlcZRPzee_ERCFa1Mj-7-XJVs4_AI",
+      "Enable Street Number": false,
+      "Google ReCaptcha Site Key": "",
+      "Enable Google ReCaptcha Enterprise": false,
+      "Google ReCaptcha Enterprise Site Key": "",
+      "Google ReCaptcha Error": "",
+      "Google Language Key": "",
+      "Video": "",
+      "Domain": "https://pmi.23video.com",
+      "Consumer Key": "49659978-4H352J65bV5hhWtI4wvs",
+      "Consumer Secret": "hwKKOITkhmQoNyvQbaBpB8VualL81dnRNNZqxRV80WPNRDKNOF",
+      "Token": "85597-MvmD5Iwj0aZr8wpQYWbI",
+      "Token Secret": "2JQfPITKlOZq516RTyVsMA4AZmJyvKygFuU6QrnCmRAxPJsRk2"
+    },
+    {
+      "tab": "Commons Conf"
+    },
+    {
+      "Common SEO Properties": "",
+      "": false,
+      "Exclude from Sitemap of NewsBlog": false,
+      "Exclude from Sitemap": false,
+      "Exclude from Hreflang": false,
+      "Insert noindex in page head": false,
+      "Insert nofollow in page head": false,
+      "Insert noarchive in page head": false,
+      "Insert Max Image Preview in page head": false,
+      "Max Image Preview Selection": "large",
+      "Title for page into sitemap": "",
+      "Extended label for SEO title": "IQOS Indonesia",
+      "External Hreflang": "",
+      "Extended field for brand name in SEO title": "",
+      "Breadcrumbs": "",
+      "Other Common Configurations": "",
+      "Disable aemConfig Obfuscation": false
+    }
+  ],
+  "count": 42,
+  "timestamp": "2024-10-28T17:16:58.395Z"
+}

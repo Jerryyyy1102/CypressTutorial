@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "Registration",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "Registration - Create your IQOS Account",
+      "Navigation Title": ""
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "register"
+    }
+  ],
+  "count": 4,
+  "timestamp": "2024-10-28T15:59:04.041Z"
+}

@@ -1,0 +1,127 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Navigation Title": ""
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "register"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": "",
+      "Inherited from /content/pmisite/id/en": "on"
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "Segments Path": "",
+      "Targeting Configuration": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "Live Copy Inheritance": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    },
+    {},
+    {
+      "tab": "Commons Conf"
+    },
+    {
+      "Common SEO Properties": ""
+    },
+    {
+      "tab": "Configuration"
+    },
+    {},
+    {
+      "tab": "Top menu"
+    },
+    {
+      "disable auto Hide Mode For Notice Banner": "true"
+    },
+    {
+      "tab": "Schema Org"
+    },
+    {},
+    {
+      "tab": "HostName"
+    },
+    {},
+    {
+      "tab": "Datalayer"
+    },
+    {
+      "Primary Category": "",
+      "Page Name": ""
+    },
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {},
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {
+      "Author Configuration": "",
+      "Agency Configuration": ""
+    },
+    {
+      "tab": "Social Configuration"
+    },
+    {
+      "Social Networks Configuration": ""
+    },
+    {
+      "tab": "Aibot Configuration"
+    },
+    {},
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {},
+    {
+      "tab": "SEO"
+    },
+    {},
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {},
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {}
+  ],
+  "count": 42,
+  "timestamp": "2024-10-27T08:53:43.027Z"
+}

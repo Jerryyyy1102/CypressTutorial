@@ -1,0 +1,271 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "Registration",
+      "coral-id-1": "Registration",
+      "Tags": "",
+      "coral-id-2": "",
+      "": "",
+      "coral-id-3": "true",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "Registration - Create your IQOS Account",
+      "coral-id-4": "Registration - Create your IQOS Account",
+      "Navigation Title": "",
+      "coral-id-5": ""
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "coral-id-36": "true",
+      "": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "coral-id-38": "",
+      "Design": "",
+      "coral-id-39": "",
+      "Alias": "register",
+      "coral-id-40": "register"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {
+      "": ""
+    },
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": "",
+      "coral-id-58": "on",
+      "": "",
+      "Inherited from /content/pmisite/id/en": "on",
+      "coral-id-61": "Add Configuration"
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "ContextHub Path": "",
+      "coral-id-67": "",
+      "": "",
+      "Segments Path": "",
+      "coral-id-68": "",
+      "Targeting Configuration": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "coral-id-72": "true",
+      "": "",
+      "Live Copy Inheritance": "true",
+      "coral-id-75": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    },
+    {
+      "Title H1": "",
+      "./headingTitle": "",
+      "./hideTitle": "true",
+      "": "",
+      "Remove H1 Header from display": "Remove H1 Header from display"
+    },
+    {
+      "tab": "Commons Conf"
+    },
+    {
+      "Common SEO Properties": "",
+      "./excludeFromSitemapNewsBlog": "true",
+      "": "",
+      "Exclude from Sitemap of NewsBlog": "Exclude from Sitemap of NewsBlog",
+      "./excludeFromSitemap": "true",
+      "Exclude from Sitemap": "Exclude from Sitemap",
+      "./excludeFromHreflang": "true",
+      "Exclude from Hreflang": "Exclude from Hreflang",
+      "./noIndex": "true",
+      "Insert noindex in page head": "Insert noindex in page head",
+      "./noFollow": "true",
+      "Insert nofollow in page head": "Insert nofollow in page head",
+      "./noArchive": "true",
+      "Insert noarchive in page head": "Insert noarchive in page head",
+      "./maxImagePreview": "true",
+      "Insert Max Image Preview in page head": "Insert Max Image Preview in page head",
+      "Max Image Preview Selection": "large",
+      "large\n    \n    large\nstandard\nnone\n\n    \n    largestandardnone": "large\n    \n    large\nstandard\nnone\n\n    \n    largestandardnone",
+      "coral-7": "large",
+      "./maxImagePreviewSelect": "large",
+      "description_d2c262c3-4ddb-4705-a08f-64bd5d98aff5": ""
+    },
+    {
+      "tab": "Configuration"
+    },
+    {
+      "./enabledpreloader": "true",
+      "": "",
+      "Enable/Disable Preloader": "Enable/Disable Preloader",
+      "./isVisibleOnlyForHardAgeVerified": "true",
+      "Hard Age Verification Required": "Hard Age Verification Required",
+      "./lightNBWThemeEnabled": "true",
+      "Enable light theme for NBW": "Enable light theme for NBW",
+      "./hideRMPActivationBanner": "true",
+      "Hide RMP Activation Banner": "Hide RMP Activation Banner"
+    },
+    {
+      "tab": "Top menu"
+    },
+    {
+      "./transparentHeaderbar": "true",
+      "": "",
+      "Transparent Headerbar": "Transparent Headerbar",
+      "./onlyLogo": "true",
+      "Only Logo": "Only Logo",
+      "./lightFontHeaderbar": "true",
+      "Light Font Headerbar": "Light Font Headerbar",
+      "Menu Icon path Principal": "",
+      "coral-118": "",
+      "Menu Icon path Secondary": "",
+      "coral-120": "",
+      "disable auto Hide Mode For Notice Banner": "true",
+      "coral-id-80": "true"
+    },
+    {
+      "tab": "Schema Org"
+    },
+    {
+      "Same As": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./sameAsList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_3fc31f45-a8a1-4c5a-ba4a-7d3ffcea008d\" class=\"coral-Form-fieldlabel\">Same As Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./sameAsSchema\" value=\"\" aria-labelledby=\"label_3fc31f45-a8a1-4c5a-ba4a-7d3ffcea008d\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/items/sameAs\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":3,\"selfTime\":2}-->",
+      "Contact Point": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./contactPointList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_ce45e5e4-2078-40b0-983b-2e29f561536c\" class=\"coral-Form-fieldlabel\">Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./typeCP\" value=\"\" aria-labelledby=\"label_ce45e5e4-2078-40b0-983b-2e29f561536c\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/typeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_bb844c8d-6c6d-4fc2-8816-c89b70364ae3\" class=\"coral-Form-fieldlabel\">Telephone</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./telephoneCP\" value=\"\" aria-labelledby=\"label_bb844c8d-6c6d-4fc2-8816-c89b70364ae3\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/telephoneCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_bd9a209e-6007-437c-b22a-2a23ff0db170\" class=\"coral-Form-fieldlabel\">Contact Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./contactTypeCP\" value=\"\" aria-labelledby=\"label_bd9a209e-6007-437c-b22a-2a23ff0db170\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/contactTypeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_2ba67cba-a585-456e-a8a1-f5b21d746f2e\" class=\"coral-Form-fieldlabel\">Area Served</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./areaServedCP\" value=\"\" aria-labelledby=\"label_2ba67cba-a585-456e-a8a1-f5b21d746f2e\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/areaServedCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_21f75026-56e1-4d39-b9a7-b182bb551d4e\" class=\"coral-Form-fieldlabel\">Available Language</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./availableLanguageCP\" value=\"\" aria-labelledby=\"label_21f75026-56e1-4d39-b9a7-b182bb551d4e\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/availableLanguageCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":5,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":5,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":5,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":6,\"selfTime\":1}-->"
+    },
+    {
+      "tab": "HostName"
+    },
+    {
+      "HostName": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./hostNameList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_f7af9615-eacf-44cb-a25b-7310e9485b59\" class=\"coral-Form-fieldlabel\">HostName Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./hostName\" value=\"\" aria-labelledby=\"label_f7af9615-eacf-44cb-a25b-7310e9485b59\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/items/hostName\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":1}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":2,\"selfTime\":0}-->"
+    },
+    {
+      "tab": "Datalayer"
+    },
+    {
+      "Currency ISO": "",
+      "./currencyISO": "",
+      "Primary Category": "",
+      "Primary Category Configuration": "register",
+      "register\n    \n    \nCustom Value\nhome\ndiscover\ntry\nshop\nregister\nlogin\nmy account\nrefer friend\nsupport\nstore locator\nlegal\nlanding page\nerror page\n\n    \n    Custom Valuehomediscovertryshopregisterloginmy accountrefer friendsupportstore locatorlegallanding pageerror page": "register\n    \n    \nCustom Value\nhome\ndiscover\ntry\nshop\nregister\nlogin\nmy account\nrefer friend\nsupport\nstore locator\nlegal\nlanding page\nerror page\n\n    \n    Custom Valuehomediscovertryshopregisterloginmy accountrefer friendsupportstore locatorlegallanding pageerror page",
+      "coral-26": "register",
+      "./primaryCategorySelect": "register",
+      "description_250646dc-b80b-4ec7-b042-304ae9d62f23": "",
+      "Primary Category Custom Configuration": "",
+      "./primaryCategoryCustom": "",
+      "Page Name": "",
+      "Page Name Configuration": "register",
+      "register\n    \n    \nCustom Value\nhome\ndiscover\nheated tobacco\ntechnology\nprecision vaping\nproduct comparator\nlending\nbooking\nproduct list\nproduct detail\ncart\ncheckout\nregister\nlogin\nreset password\nmy account\norder return\nrefer friend\nsupport\nquick start\ndevice diagnostic\ncare+\nfaq\ncontact us\ncontact form\nstore locator\nstore details\nprivacy policy\ncookie policy\nterms and conditions\nduty to inform\nerror 404\naccessories\niqos 2.4 plus\niqos 3 duo\niqos 3 multi\nhouse rules\n\n    \n    Custom Valuehomediscoverheated tobaccotechnologyprecision vapingproduct comparatorlendingbookingproduct listproduct detailcartcheckoutregisterloginreset passwordmy accountorder returnrefer friendsupportquick startdevice diagnosticcare+faqcontact uscontact formstore locatorstore detailsprivacy policycookie policyterms and conditionsduty to informerror 404accessoriesiqos 2.4 plusiqos 3 duoiqos 3 multihouse rules": "register\n    \n    \nCustom Value\nhome\ndiscover\nheated tobacco\ntechnology\nprecision vaping\nproduct comparator\nlending\nbooking\nproduct list\nproduct detail\ncart\ncheckout\nregister\nlogin\nreset password\nmy account\norder return\nrefer friend\nsupport\nquick start\ndevice diagnostic\ncare+\nfaq\ncontact us\ncontact form\nstore locator\nstore details\nprivacy policy\ncookie policy\nterms and conditions\nduty to inform\nerror 404\naccessories\niqos 2.4 plus\niqos 3 duo\niqos 3 multi\nhouse rules\n\n    \n    Custom Valuehomediscoverheated tobaccotechnologyprecision vapingproduct comparatorlendingbookingproduct listproduct detailcartcheckoutregisterloginreset passwordmy accountorder returnrefer friendsupportquick startdevice diagnosticcare+faqcontact uscontact formstore locatorstore detailsprivacy policycookie policyterms and conditionsduty to informerror 404accessoriesiqos 2.4 plusiqos 3 duoiqos 3 multihouse rules",
+      "coral-69": "register",
+      "./pageNameSelect": "register",
+      "description_2cf81d2b-058d-47f4-9fa5-0aeba5830de8": "",
+      "Page Name Custom Configuration": ""
+    },
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {
+      "./deniedAnonymous": "true",
+      "": "",
+      "Locked for anonymous with overlay": "Locked for anonymous with overlay",
+      "./deniedLoggedIn": "true",
+      "Locked for anonymous and not HAV verified users with overlay": "Locked for anonymous and not HAV verified users with overlay",
+      "./deniedAnonymousAndNotHav": "true",
+      "Locked for anonymous and not HAV verified users with redirect": "Locked for anonymous and not HAV verified users with redirect",
+      "./deniedAnonymousNotHavAndNoDevice": "true",
+      "Only accessible to users who are logged-in, completed HAV and have one device registered": "Only accessible to users who are logged-in, completed HAV and have one device registered"
+    },
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {
+      "Author Configuration": "",
+      "Author": "Select",
+      "Select\n    \n    Select\n\n    \n    Select": "Select\n    \n    Select\n\n    \n    Select",
+      "coral-74": "Select",
+      "./customTagAuthSelect": "Select",
+      "Agency Configuration": "",
+      "Agency": "Select",
+      "coral-79": "Select",
+      "./customTagAgenSelect": "Select"
+    },
+    {
+      "tab": "Social Configuration"
+    },
+    {
+      "Social Networks Configuration": "",
+      "OG type": "",
+      "./socialOgType": "",
+      "OG image": "",
+      "": "",
+      "coral-122": "",
+      "OG title": "",
+      "./ogtitle": "",
+      "OG description": "",
+      "./ogdescription": "",
+      "Twitter image": "",
+      "coral-124": ""
+    },
+    {
+      "tab": "Aibot Configuration"
+    },
+    {
+      "./enableAibot": "true",
+      "": "",
+      "Enable Aibot": "Enable Aibot"
+    },
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {
+      "Device Model For Qure Page": "",
+      "./deviceModelQure": ""
+    },
+    {
+      "tab": "SEO"
+    },
+    {
+      "Language ISO code (Optional)": "",
+      "./languageIso": "",
+      "description_193151b4-9bc2-4fed-83d9-8bf380ba27e0": ""
+    },
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {
+      "Select with following options": "Use global health warning",
+      "Use global health warning\n    \n    Use global health warning\nUse page health warning\nDisable health warning\n\n    \n    Use global health warningUse page health warningDisable health warning": "Use global health warning\n    \n    Use global health warning\nUse page health warning\nDisable health warning\n\n    \n    Use global health warningUse page health warningDisable health warning",
+      "coral-93": "Use global health warning",
+      "./selectHealthWarningBanner": "Use global health warning"
+    },
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {
+      "./hideMyLocationWidget": "true",
+      "": "",
+      "Hide My Location Switcher": "Hide My Location Switcher",
+      "./expandSwitcher": "true",
+      "Display My Location Switcher warning message in expanded status by default.": "Display My Location Switcher warning message in expanded status by default."
+    }
+  ],
+  "count": 42,
+  "timestamp": "2024-10-27T09:59:19.539Z"
+}

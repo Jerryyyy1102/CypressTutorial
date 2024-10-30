@@ -1,0 +1,187 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "Registration",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "Registration - Create your IQOS Account",
+      "Navigation Title": "",
+      "Subtitle": "",
+      "Description": "Register to join IQOS CLUB Indonesia and start your smoke-free journey with IQOS today.\n",
+      "On/Off Time": "",
+      "On Time": "",
+      "Off Time": "",
+      "Vanity URL": "Add",
+      "Redirect Vanity URL": "true"
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "register",
+      "Configuration": "",
+      "Cloud Configuration": "",
+      "Templates Settings": "",
+      "Allowed Templates": "Add",
+      "Authentication Requirement": "",
+      "Enable": "true",
+      "Login Page": "",
+      "Export": "",
+      "Export Configuration": "",
+      "SEO": "",
+      "Canonical Url": "",
+      "Robots Tags": "Select",
+      "Generate Sitemap": "true"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": "",
+      "Inherited from /content/pmisite/id/en": "on"
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "ContextHub Path": "",
+      "Segments Path": "",
+      "Targeting Configuration": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "Live Copy Inheritance": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    },
+    {
+      "Title H1": ""
+    },
+    {
+      "tab": "Commons Conf"
+    },
+    {
+      "Common SEO Properties": "",
+      "Max Image Preview Selection": "large",
+      "Title for page into sitemap": "",
+      "Extended label for SEO title": "",
+      "External Hreflang": "",
+      "Extended field for brand name in SEO title": "",
+      "Breadcrumbs": "Registration"
+    },
+    {
+      "tab": "Configuration"
+    },
+    {},
+    {
+      "tab": "Top menu"
+    },
+    {
+      "Menu Icon path Principal": "",
+      "Menu Icon path Secondary": "",
+      "disable auto Hide Mode For Notice Banner": "true"
+    },
+    {
+      "tab": "Schema Org"
+    },
+    {
+      "Same As": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./sameAsList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_4e0b80d7-ed8c-47c6-93df-9a6ce0d5d06b\" class=\"coral-Form-fieldlabel\">Same As Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./sameAsSchema\" value=\"\" aria-labelledby=\"label_4e0b80d7-ed8c-47c6-93df-9a6ce0d5d06b\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/items/sameAs\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":2,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":2,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/sameAsMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":2,\"selfTime\":0}-->",
+      "Contact Point": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./contactPointList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_930c7755-8461-459b-b28d-4d34cc35aabd\" class=\"coral-Form-fieldlabel\">Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./typeCP\" value=\"\" aria-labelledby=\"label_930c7755-8461-459b-b28d-4d34cc35aabd\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/typeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_ccc3d6d5-f264-4295-9eec-25b441a7b248\" class=\"coral-Form-fieldlabel\">Telephone</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./telephoneCP\" value=\"\" aria-labelledby=\"label_ccc3d6d5-f264-4295-9eec-25b441a7b248\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/telephoneCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_6fb4a40d-8d47-4506-a6c5-4dbde7b477eb\" class=\"coral-Form-fieldlabel\">Contact Type</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./contactTypeCP\" value=\"\" aria-labelledby=\"label_6fb4a40d-8d47-4506-a6c5-4dbde7b477eb\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/contactTypeCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":0,\"selfTime\":0}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_518e11e8-fae3-4524-8570-19c494559df2\" class=\"coral-Form-fieldlabel\">Area Served</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./areaServedCP\" value=\"\" aria-labelledby=\"label_518e11e8-fae3-4524-8570-19c494559df2\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/areaServedCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_88d593fa-9490-4de1-9333-772766baa2e4\" class=\"coral-Form-fieldlabel\">Available Language</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./availableLanguageCP\" value=\"\" aria-labelledby=\"label_88d593fa-9490-4de1-9333-772766baa2e4\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/items/availableLanguageCP\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":4,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":5,\"selfTime\":1}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":5,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/schemaOrg/items/contactPointMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":5,\"selfTime\":0}-->"
+    },
+    {
+      "tab": "HostName"
+    },
+    {
+      "HostName": "Add field\n    <section  class=\"coral-Form-fieldset\" data-eaem-nested=\"\" data-name=\"./hostNameList\"><div>\n<div  class=\"coral-Form-fieldwrapper\"><label id=\"label_4a700aa8-d7c7-4592-b824-9a305be26cc1\" class=\"coral-Form-fieldlabel\">HostName Field</label><input  class=\"coral-Form-field coral-Textfield\" type=\"text\" name=\"./hostName\" value=\"\" aria-labelledby=\"label_4a700aa8-d7c7-4592-b824-9a305be26cc1\" data-validation=\"\"></div><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/textfield\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/items/hostName\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/field/field.jsp\",\"totalTime\":1,\"selfTime\":1}-->\n</div>\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/layouts/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/layouts/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/container\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/items/column\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/container/container.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n<!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/contsys\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field/no_resource_0\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/contsys/contsys.jsp\",\"totalTime\":1,\"selfTime\":0}-->\n\n</section><!--cq{\"decorated\":false,\"type\":\"granite/ui/components/foundation/form/fieldset\",\"path\":\"/apps/pmisite/components/structure/page/cq:dialog/hostName/items/hostNameMulti/field\",\"selectors\":null,\"servlet\":\"Script /libs/granite/ui/components/foundation/form/fieldset/fieldset.jsp\",\"totalTime\":2,\"selfTime\":1}-->"
+    },
+    {
+      "tab": "Datalayer"
+    },
+    {
+      "Currency ISO": "",
+      "Primary Category": "",
+      "Primary Category Configuration": "register",
+      "Primary Category Custom Configuration": "",
+      "Page Name": "",
+      "Page Name Configuration": "register",
+      "Page Name Custom Configuration": ""
+    },
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {},
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {
+      "Author Configuration": "",
+      "Author": "Select",
+      "Agency Configuration": "",
+      "Agency": "Select"
+    },
+    {
+      "tab": "Social Configuration"
+    },
+    {
+      "Social Networks Configuration": "",
+      "OG type": "",
+      "OG image": "",
+      "OG title": "",
+      "OG description": "",
+      "Twitter image": "",
+      "Twitter title": "",
+      "Twiiter description": "",
+      "Twiiter card": "Select"
+    },
+    {
+      "tab": "Aibot Configuration"
+    },
+    {},
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {
+      "Device Model For Qure Page": ""
+    },
+    {
+      "tab": "SEO"
+    },
+    {
+      "Language ISO code (Optional)": ""
+    },
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {
+      "Select with following options": "Use global health warning"
+    },
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {}
+  ],
+  "count": 42,
+  "timestamp": "2024-10-28T16:02:19.046Z"
+}

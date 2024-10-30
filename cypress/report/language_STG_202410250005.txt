@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {},
+    {
+      "tab": "Advanced"
+    },
+    {},
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    }
+  ],
+  "count": 7,
+  "timestamp": "2024-10-24T17:05:19.656Z"
+}

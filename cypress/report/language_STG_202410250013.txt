@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {},
+    {
+      "tab": "Advanced"
+    },
+    {},
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {},
+    {
+      "tab": "Personalization"
+    },
+    {},
+    {
+      "tab": "Live Copy"
+    },
+    {},
+    {
+      "tab": "H1 Title"
+    },
+    {},
+    {
+      "tab": "Top menu"
+    },
+    {},
+    {
+      "tab": "Schema Org"
+    },
+    {},
+    {
+      "tab": "HostName"
+    },
+    {},
+    {
+      "tab": "Datalayer"
+    },
+    {},
+    {
+      "tab": "PAGE LOCK RULE"
+    },
+    {},
+    {
+      "tab": "Custom Tag Author/Agency"
+    },
+    {},
+    {
+      "tab": "Social Configuration"
+    },
+    {},
+    {
+      "tab": "Aibot Configuration"
+    },
+    {},
+    {
+      "tab": "Device Model for Qure Page"
+    },
+    {},
+    {
+      "tab": "SEO"
+    },
+    {},
+    {
+      "tab": "health Warning Banner Config"
+    },
+    {},
+    {
+      "tab": "My Location Switcher Config"
+    },
+    {},
+    {
+      "tab": "Integration"
+    },
+    {},
+    {
+      "tab": "Commons Conf"
+    },
+    {},
+    {
+      "tab": "PDP Configuration"
+    },
+    {},
+    {
+      "tab": "PLP Configuration"
+    },
+    {},
+    {
+      "tab": "Configuration"
+    },
+    {},
+    {
+      "tab": "Page Paths"
+    },
+    {},
+    {
+      "tab": "Commons Label"
+    },
+    {},
+    {
+      "tab": "Logo"
+    },
+    {},
+    {
+      "tab": "Popup Configuration"
+    },
+    {},
+    {
+      "tab": "SEO"
+    },
+    {},
+    {
+      "tab": "Trust Providers"
+    },
+    {},
+    {
+      "tab": "My Device Integration"
+    },
+    {},
+    {
+      "tab": "Customer Search Integration"
+    },
+    {},
+    {
+      "tab": "Mulesoft Integration"
+    },
+    {},
+    {
+      "tab": "My Preference Integration"
+    },
+    {},
+    {
+      "tab": "FilterConfiguration"
+    },
+    {},
+    {
+      "tab": "Store Details WeekDays Configuration"
+    },
+    {},
+    {
+      "tab": "Payment Configuration"
+    },
+    {},
+    {
+      "tab": "Interaction Configuration"
+    },
+    {},
+    {
+      "tab": "Error Configuration"
+    },
+    {},
+    {
+      "tab": "Error Configuration Loyalty Redeem"
+    },
+    {},
+    {
+      "tab": "Error Configuration Compatibility"
+    },
+    {},
+    {
+      "tab": "Error Configuration Loyalty Add to cart"
+    },
+    {},
+    {
+      "tab": "Error Configuration Appointment"
+    },
+    {},
+    {
+      "tab": "Error Configuration Create Gigya Account"
+    },
+    {},
+    {
+      "tab": "Social Media"
+    },
+    {},
+    {
+      "tab": "Resend Password Configuration"
+    },
+    {},
+    {
+      "tab": "Order invoice configuration"
+    },
+    {},
+    {
+      "tab": "CSC My Timeline Configuration"
+    },
+    {},
+    {
+      "tab": "Check Is CSC"
+    },
+    {},
+    {
+      "tab": "VeeV Configuration"
+    },
+    {},
+    {
+      "tab": "Dynamsoft Config"
+    },
+    {},
+    {
+      "tab": "Legal Configuration"
+    },
+    {},
+    {
+      "tab": "Cookie Popup Config"
+    },
+    {},
+    {
+      "tab": "One Trust Config"
+    },
+    {},
+    {
+      "tab": "Kakao Talk Configuration"
+    },
+    {},
+    {
+      "tab": "Lending Order Enable Promo"
+    },
+    {},
+    {
+      "tab": "NotifyMe Overlay Labels"
+    },
+    {},
+    {
+      "tab": "Wyng Experience Configuration"
+    },
+    {},
+    {
+      "tab": "FAQ Configuration"
+    },
+    {},
+    {
+      "tab": "Checkout Configuration"
+    },
+    {},
+    {
+      "tab": "Enable Full Address"
+    },
+    {},
+    {
+      "tab": "GET SUPPORT"
+    },
+    {},
+    {
+      "tab": "Checkout Error Messages"
+    },
+    {},
+    {
+      "tab": "Language Icon Path"
+    },
+    {},
+    {
+      "tab": "Loyalty Badge Configuration"
+    },
+    {},
+    {
+      "tab": "Enable Full Week Day"
+    },
+    {},
+    {
+      "tab": "Product Badge Display"
+    },
+    {},
+    {
+      "tab": "Add space after zero for calendar"
+    },
+    {},
+    {
+      "tab": "Enable Card Payment Mask"
+    },
+    {},
+    {
+      "tab": "Text Direction"
+    },
+    {},
+    {
+      "tab": "Enable Free Label"
+    },
+    {},
+    {
+      "tab": "HEETS CONTRACT"
+    },
+    {},
+    {
+      "tab": "Data Stored from HAV"
+    },
+    {},
+    {
+      "tab": "Hav Status Mapping"
+    },
+    {},
+    {
+      "tab": "Hide Order Summary View"
+    },
+    {},
+    {
+      "tab": "Global Error Configurations"
+    },
+    {},
+    {
+      "tab": "Lending Error Configurations"
+    },
+    {},
+    {
+      "tab": "News Blog Configuration"
+    },
+    {},
+    {
+      "tab": "News Blog Label"
+    },
+    {},
+    {
+      "tab": "Header Notice Banner Configuration"
+    },
+    {},
+    {
+      "tab": "Store type Map configuration"
+    },
+    {}
+  ],
+  "count": 162,
+  "timestamp": "2024-10-24T17:13:14.272Z"
+}

@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "tab": "Basic"
+    },
+    {
+      "Title and Tags": "",
+      "Title *": "English",
+      "Tags": "",
+      "Hide in Navigation": "true",
+      "More Titles and Description": "",
+      "Page Title": "English",
+      "Navigation Title": "",
+      "Subtitle": "",
+      "Description": "",
+      "On/Off Time": "",
+      "On Time": "",
+      "Off Time": "",
+      "Vanity URL": "Add",
+      "Redirect Vanity URL": "true"
+    },
+    {
+      "tab": "Advanced"
+    },
+    {
+      "Settings": "",
+      "Language": "",
+      "Language Root": "true",
+      "Redirect": "",
+      "Design": "",
+      "Alias": "",
+      "Configuration": "",
+      "Cloud Configuration": "",
+      "Templates Settings": "",
+      "Allowed Templates": "Add",
+      "Authentication Requirement": "",
+      "Enable": "true",
+      "Login Page": "",
+      "Export": "",
+      "Export Configuration": "",
+      "SEO": "",
+      "Canonical Url": "",
+      "Robots Tags": "Select",
+      "Generate Sitemap": "true"
+    },
+    {
+      "tab": "Thumbnail"
+    },
+    {},
+    {
+      "tab": "Cloud Services"
+    },
+    {
+      "Cloud Service Configurations": ""
+    },
+    {
+      "tab": "Personalization"
+    },
+    {
+      "ContextHub Configurations": "",
+      "ContextHub Path": "",
+      "Segments Path": "",
+      "Targeting Configuration": ""
+    },
+    {
+      "tab": "Live Copy"
+    },
+    {
+      "Source": "",
+      "Status": "",
+      "Configuration": "",
+      "Live Copy Inheritance": "true",
+      "Inherit Rollout Configs from Parent": "true"
+    },
+    {
+      "tab": "H1 Title"
+    }
+  ],
+  "count": 13,
+  "timestamp": "2024-10-28T16:46:54.093Z"
+}
